@@ -542,3 +542,19 @@ img {
   color: #0056b3;
   text-decoration: underline;
 }
+
+.project__tags {
+  margin-top: 10px;
+}
+
+.tag {
+  display: inline-block;
+  background-color: #e0e7ff;
+  color: #3730a3;
+  font-size: 0.75rem;
+  padding: 4px 8px;
+  margin: 4px 4px 0 0;
+  border-radius: 9999px;
+  font-weight: 500;
+}
+
